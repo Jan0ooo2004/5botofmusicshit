@@ -101,3 +101,7 @@ if (message.mentions.users.size < 1) return message.reply("**منشن الشخص
   })
 }
 });
+
+
+
+client.login ('NDkyNzg4OTEwMDMyOTQ1MTUz.DobiGw.Ii1s5nVqHd1tdyx-mPzMlFmqVz0');
